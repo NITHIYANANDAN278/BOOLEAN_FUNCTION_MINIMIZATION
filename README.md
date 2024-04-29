@@ -57,6 +57,8 @@ endmodule
 
 
 **Output:**
+![image](https://github.com/NITHIYANANDAN278/BOOLEAN_FUNCTION_MINIMIZATION/assets/121784636/34205058-5c1c-43f4-b709-47d35e5ed88f)
+
 
 
 **Result:**
